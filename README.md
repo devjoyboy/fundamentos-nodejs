@@ -10,3 +10,7 @@ npm init -y
 ```
 npm install express
 ```
+**Iniciar aplicação**
+```
+node src/index.js
+```

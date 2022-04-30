@@ -14,3 +14,7 @@ npm install express
 ```
 node src/index.js
 ```
+**Nodemon**
+```
+npm install nodemon -d
+```
